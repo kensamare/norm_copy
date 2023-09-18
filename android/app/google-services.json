@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "996657387539",
+    "project_id": "norm-a67f8",
+    "storage_bucket": "norm-a67f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996657387539:android:bfba6473bec8047d7a87e6",
+        "android_client_info": {
+          "package_name": "com.tokarevco.norm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996657387539-0ndo2feuj0u4v89emuga5m54aar22utf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuZ1p8gjUT2AHukXFjAVOYsMJoHusbk3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996657387539-0ndo2feuj0u4v89emuga5m54aar22utf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
